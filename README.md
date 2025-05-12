@@ -1,4 +1,4 @@
-## Hi there 👋
+hi friends, my name is joyce, i am student do 1 ano do ensino medio
 
 <!--
 **joy-viana178/joy-viana178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
